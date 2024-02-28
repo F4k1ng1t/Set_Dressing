@@ -261,5 +261,6 @@ public class PlayerBehavior : MonoBehaviour
 
         //Shooting animation
         gunAnims.Shoot();
+
     }
 }
